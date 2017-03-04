@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google Play Services", "Assembly-CSharp.csproj", "{870A19F4-488A-4BCC-D73B-BF631B22897B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google Play Services", "Assembly-CSharp-Editor.csproj", "{7430CCEF-B21A-1D52-1695-EB80DC86C19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870A19F4-488A-4BCC-D73B-BF631B22897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870A19F4-488A-4BCC-D73B-BF631B22897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870A19F4-488A-4BCC-D73B-BF631B22897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870A19F4-488A-4BCC-D73B-BF631B22897B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7430CCEF-B21A-1D52-1695-EB80DC86C19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7430CCEF-B21A-1D52-1695-EB80DC86C19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7430CCEF-B21A-1D52-1695-EB80DC86C19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7430CCEF-B21A-1D52-1695-EB80DC86C19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
